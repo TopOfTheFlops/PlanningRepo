@@ -65,3 +65,13 @@ tap-spec
 Documentation on API
 ... Sockets stretch...
 
+## API calls
+
+#### POST
+Create
+Compete/Upload
+Vote
+
+#### GET
+Flopper
+All LifeStyles
