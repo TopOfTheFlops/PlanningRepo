@@ -14,6 +14,7 @@ var initialState = {
         description: 'This is my best lasagna currently'
       }
     }
+   ]
     currentFlopper: {
       flopperID: 1,
       name: 'lord master',
@@ -22,6 +23,5 @@ var initialState = {
       lifeStylesFollowing: ['lasagna', 'cup stacking'],
       floppersFollowing: [1,3,4]
     }
-  ]
 }
 ```
