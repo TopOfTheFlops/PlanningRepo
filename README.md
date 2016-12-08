@@ -3,7 +3,7 @@
 + Login screen / Home Screen
 Signup
   Enter your location here
- 
+
 + Dashboard
 
 Your leaderboards (lifestyles, floppers)
@@ -78,3 +78,8 @@ All LifeStyles
 
 ## State
 
+User Stories(userStories.md)
+
+Learning Objectives(learningObjectives.md)
+
+Team Rules(teamRules.md)
