@@ -8,6 +8,7 @@
 6. As a flopper I want to be able to upvote/downvote flops, so I can have a say in what the top flops are. (LIFESTYLE LEADERBOARD)
 7. As a flopper I want to be able to post a new flop, so other floppers can see my contribution to this lifestyle (LIFESTYLE LEADERBOARD)
 8. As a flopper I want to be able to see my best flops, so I can remember my useless achievements. (PROFILE)
+9. As a flopper I want to be able to logout of my account, so my information remains safe while I'm not using the app.
 
 
 ##Stretch
