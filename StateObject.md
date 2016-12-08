@@ -13,7 +13,6 @@ var initialState = {
         media: 'imgur.com/1345lkj'
         description: 'This is my best lasagna currently'
       }
-    }
    ]
     currentFlopper: {
       flopperID: 1,
