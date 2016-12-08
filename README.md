@@ -78,8 +78,8 @@ All LifeStyles
 
 ## State
 
-User Stories(userStories.md)
+[User Stories](userStories.md)
 
-Learning Objectives(learningObjectives.md)
+[Learning Objectives](learningObjectives.md)
 
-Team Rules(teamRules.md)
+[Team Rules](teamRules.md)
